@@ -6,15 +6,15 @@
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "sonar": "node sonar-project.js"  // This line is crucial
+    "sonar": "node sonar-project.js" 
   },
   "author": "",
   "license": "ISC",
   "engines": {
-    "node": ">=22.2.0"  // Update the required Node.js version
+    "node": ">=22.2.0"
   },
   "dependencies": {
-    // your dependencies here
+   
   }
 }
   
